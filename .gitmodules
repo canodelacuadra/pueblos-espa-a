@@ -1,0 +1,3 @@
+[submodule "ccaa-provincias-municipios"]
+	path = ccaa-provincias-municipios
+	url = https://github.com/oscarnovasf/ccaa-provincias-municipios.git
